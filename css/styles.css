@@ -1,0 +1,217 @@
+/*                      Classes                    */
+/*  Bb  */
+.bilImg{
+  margin: auto 0.5rem;
+}
+.brdr{
+  border-bottom: 1px solid #63615f;
+}
+.btn{
+  color:#323232;
+  background-color: #b0ceff;
+}
+.frstPost{
+  background-color: #fff;
+}
+/*  Dd   */
+.dropdown-menu{
+  height:7.6rem;
+}
+.dropT{
+  margin-top: 5%;
+  margin-bottom: 1rem;
+}
+/* Ee */
+.events{
+  width:5rem;
+}
+.events p{
+  color:black;
+  text-align: center;
+  font-size: 1.6rem;
+  font-family: Bariol ;
+}
+.eventImg{
+  width:38rem;
+
+}
+/*   Ff  */
+
+.firstSlide{
+  padding-top:5rem;
+}
+.firstSlideT{
+  padding-top:2rem;
+}
+
+.foot{
+  height: 9rem;
+  padding-top: 2rem;
+}
+
+.frstPage{
+  margin-top: 5%;
+  padding-top: 7%;
+  height: 30rem;
+}
+
+.fab{
+  padding:0 0.7rem 0 0.7rem;
+  color:black;
+}
+
+/*  Ii  */
+.img1{
+  background-repeat: no-repeat;
+  background: url("https://bil.edu.kz/wp-content/uploads/2018/11/photo5400306615032326499.jpg") ;
+  background-size: 100% 140%;
+
+}
+.img2{
+  background-repeat: no-repeat;
+  background: url("https://bil.edu.kz/wp-content/uploads/2018/10/photo5381842018050878168.jpg") ;
+  background-size: 100% 140%;
+
+}
+.img3{
+  background-repeat: no-repeat;
+  background: url("https://lh4.googleusercontent.com/PfJpv0Mgyo5K-rXunTuO6JBfzUV6nH5XRQKx8Ol4IZyh5M1K3S_kT_sindV96uxl8ZxRnzfLig-G9sPBFoNW4bZaAsAIK3JB628bdcbMjsSiFYhxLC5ViARPoBlNr5tYAmwUSxxs") ;
+  background-size: 100% 130%;
+
+}
+.img4{
+  background-repeat: no-repeat;
+  background: url("https://bil-edu.kz/wp-content/uploads/2018/08/Screenshot_1-1.png") ;
+  background-size: 100% 160%;
+
+}
+.infoPost{
+  height: 15rem;
+}
+/* Jj */
+
+.jumbotron{
+  background: url("https://bil.edu.kz/wp-content/uploads/2017/09/Litsej.jpg") no-repeat center;
+}
+
+/*  Kk  */
+.katevImg{
+  width: 7rem;
+}
+
+.katevIMg{
+  width: 7rem;
+  float: left;
+  padding-top: 1rem;
+}
+
+/*  Ll  */
+.loremFooter{
+  line-height: 1.3rem;
+  padding-top: 2.5rem;
+}
+/* Mn */
+
+.mainSlide{
+  background-color:black;
+  background: rgba(0, 0, 0, 0.5);
+  margin-top:9rem;
+  padding-top: 1rem;
+  color:white;
+  width: 50rem;
+}
+.mainSlide h1{
+  font-size: 3rem;
+}
+/*  Oo  */
+.overflowDiv{
+  overflow:auto;
+}
+
+/*  Nn  */
+.news{
+  color:white;
+}
+.name{
+  float: right;
+}
+
+.navbar{
+  position: absolute;
+}
+
+.nav{
+  position:fixed;
+}
+
+.navS{
+  margin-bottom: 5rem;
+}
+
+/*  Ss  */
+.sheduleImg{
+  width:90%;
+}
+.scrollSpy{
+  float: left;
+}
+.secPage1{
+  background-size:10% 10%;
+  background:url("https://bil.edu.kz/wp-content/uploads/2018/11/photo5400306615032326500.jpg")no-repeat center;
+}
+
+/*  Tt  */
+.teachDiv{
+  overflow: auto;
+  height: 34rem;
+}
+
+/*                             Selectors                            */
+
+hr{
+  border-top: 1px solid black;
+}
+h4{
+  margin:1rem;
+}
+iframe{
+  margin-top:5%;
+  width: 95rem;
+  height:70rem;
+}
+
+
+/*                              ID                                  */
+
+
+#footer{
+  width:30rem;
+  height: 8rem;
+  text-align: center;
+  margin:auto;
+}
+
+
+/*                           Media                                   */
+
+
+@media (max-width: 768px) {
+  .navs{
+    margin-left: 2rem;
+  }
+}
+@media (max-width: 1300px) {
+  .dropT{
+    margin-top: 7%;
+  }
+}
+@media (max-width: 870px) {
+  .dropT{
+    margin-top: 9%;
+  }
+}
+@media (max-width: 668px) {
+  .dropT{
+    margin-top: 13%;
+  }
+}
